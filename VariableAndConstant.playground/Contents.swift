@@ -15,9 +15,22 @@ var numberDouble: Double = 3.1416
 var statusBool: Bool = true
 
 
-
-
 //ลองแก้ไขค่าของตัวแปร nameString
 nameString = "Doramon" // สามารถแก้ไขค่าได้ ถ้าเป็น var
+
+
+//การกำหนดค่าคงที่ แบบไม่สามารถแก้ไขค่าได้
+let wifeString = "Yaya"
+
+//wifeString = "Macha" ไม่สามารถทำงานได้ เพราะ เป็น let
+
+
+
+
+
+
+
+
+
 
 
